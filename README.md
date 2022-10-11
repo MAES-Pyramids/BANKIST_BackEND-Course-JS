@@ -7,5 +7,11 @@ this site is built using arrays instead of real databases but it still can hold 
   - Active representation of all the money movements for each user associated with its date
   - Sort function to give control over the way that money movements appear  
 
+#### - This table holds users' usernames and passwords:
+username | js | jd | stw | ss |
+--- | --- | --- | --- |--- |
+password | 1111 | 2222 | 3333 | 4444 | 
 
 #### You can access the hosted site from [Here](https://634386e8f9dc76143b8ebf6d--bankist-backend-maes.netlify.app/)
+
+
